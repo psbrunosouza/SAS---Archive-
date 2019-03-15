@@ -1,4 +1,4 @@
-# SAS&nbsp;&nbsp;&nbsp;Archive
+# SSA Archive search and sort
 Sistema para busca e ordenação em arquivos usando lista.
 
 - Código em C desenvolvido para abertura de arquivo de texto qualquer, exibição
